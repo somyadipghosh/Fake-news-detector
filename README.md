@@ -1,4 +1,4 @@
-# 🔍 Fake News Detection System
+# 🔍 Fake News and Article Detection System
 
 <div align="center">
 
