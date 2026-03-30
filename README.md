@@ -1,4 +1,4 @@
-# 🔍 Fake News and Article Detection System
+# 🔍 Fake News and Article Detection System and reviews
 
 <div align="center">
 
